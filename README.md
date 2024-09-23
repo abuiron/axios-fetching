@@ -25,7 +25,7 @@
 ## Technologies Used
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  /><img width="12" /> <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  /><img width="12" /><img src="https://cdn.simpleicons.org/github/007ACC" height="40" alt="git logo"  /><img width="12" /><img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
+  <img width="12" /> <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  /><img width="12" /><img src="https://cdn.simpleicons.org/github/007ACC" height="40" alt="git logo"  /><img width="12" /><img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
 </div>
 
 ## Demo Link
